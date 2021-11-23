@@ -1,2 +1,2 @@
-# CSharp_.Net
- Estudos sobre a linguagem CSharp e o ambiente .Net
+# CSharp e .Net
+ Estudos sobre a linguagem CSharp e tecnologias usando .Net
