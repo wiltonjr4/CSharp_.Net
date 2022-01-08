@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d51314d8-9f97-4074-810b-f2e564c69a87": {
+      "ProjectGuid": "d51314d8-9f97-4074-810b-f2e564c69a87",
+      "DisplayName": "Desafios-DIO-DecolaTech2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a38c6da0-499a-4d8a-8e87-7e02e4a99fc8": {
+      "ProjectGuid": "a38c6da0-499a-4d8a-8e87-7e02e4a99fc8",
+      "DisplayName": "XENLONGAO",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
