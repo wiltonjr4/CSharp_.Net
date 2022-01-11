@@ -1,0 +1,8 @@
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\bin\Debug\Cadastro_Series.exe.config
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\bin\Debug\Cadastro_Series.exe
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\bin\Debug\Cadastro_Series.pdb
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\obj\Debug\Cadastro_Series.csproj.AssemblyReference.cache
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\obj\Debug\Cadastro_Series.csproj.SuggestedBindingRedirects.cache
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\obj\Debug\Cadastro_Series.csproj.CoreCompileInputs.cache
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\obj\Debug\Cadastro_Series.exe
+C:\Users\wilto\Documents\GitHub\CSharp_.Net\Cadastro_Series\Cadastro_Series\obj\Debug\Cadastro_Series.pdb
